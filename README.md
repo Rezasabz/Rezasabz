@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rezasabzinejad
-- 👀 I’m programmer
+- 👀 I’m a programmer
 - 🌱 I’m interested in new challenges and issues
 - 💞️ My goal is to be my best self.
 - 📫 Be yourself just a little better
