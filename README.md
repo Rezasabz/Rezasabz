@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rezasabzinejad
-- 👀 I’m a programmer
+- 👀 I’m a Software Developer & DevOps Engineer
 - 🌱 I’m interested in new challenges and issues
 - 💞️ My goal is to be my best self.
 - 📫 Be yourself just a little better
