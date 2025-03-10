@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Rezasabzinejad
+- 👋 Hi, I’m Reza Sabzinejad
 - 👀 I’m a Software Developer & DevOps Engineer
 - 🌱 I’m interested in new challenges and issues
 - 💞️ My goal is to be my best self.
